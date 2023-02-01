@@ -1,0 +1,50 @@
+Name,Device Types,Inventory Items,Platforms,Description,Slug,ID,Tags,Contacts,Created,Last updated
+AMD,0,0,0,Website: https://www.amd.com/ | Support: https://www.amd.com/support,amd,24,,,2023-01-31 20:00,2023-01-31 20:00
+AOC,0,0,0,Website: https://us.aoc.com/,aoc,39,,,2023-02-01 01:30,2023-02-01 01:30
+APC,0,0,0,Website: https://www.apc.com/ | Support: https://www.apc.com/us/en/support/index.jsp | Tools:  https://www.se.com/us/en/work/support/resources-and-tools/calculators-and-online-tools/,apc,28,,,2023-01-31 20:04,2023-01-31 20:04
+ASRock,0,0,0,Website: https://www.asrock.com/,asrock,61,,,2023-02-01 02:00,2023-02-01 02:00
+Android,0,0,0,,android,31,,,2023-01-31 21:08,2023-01-31 21:08
+Apple,0,0,0,Website: https://www.apple.com/ | Support: https://support.apple.com/,apple,25,,,2023-01-31 20:00,2023-01-31 20:00
+Arista Networks,0,0,0,Website; https://www.arista.com/en/,arista-networks,47,,,2023-02-01 01:43,2023-02-01 01:43
+Aruba (Hewitt Packard Enterprise),0,0,0,Website: https://www.arubanetworks.com/ |  Support: https://asp.arubanetworks.com/,aruba-hewitt-packard-enterprise,21,,,2023-01-31 19:57,2023-01-31 19:57
+Aruba Instant-On,0,0,0,Website: https://www.arubainstanton.com/ | Portal: https://portal.arubainstanton.com | Datasheets/Docs: https://www.arubainstanton.com/resources/,aruba-instant-on,22,,,2023-01-31 19:58,2023-01-31 19:58
+Asus,0,0,0,Website: https://www.asus.com/ | Support: https://www.asus.com/support/,asus,26,,,2023-01-31 20:01,2023-01-31 20:01
+Brother Solutions,0,0,0,USA Site: https://www.brother-usa.com/ | Support: https://www.brother-usa.com/brother-support,brother-solutions,27,,,2023-01-31 20:02,2023-01-31 20:02
+Cisco Systems,0,0,0,Cisco Website: https://www.cisco.com/ | Docs: https://www.cisco.com/c/en/us/td/docs | Downloads: https://www.cisco.com/c/en/us/support,cisco-systems,15,,,2023-01-31 19:23,2023-02-01 01:45
+Crucial,0,0,0,Website: https://www.crucial.com/,crucial,60,,,2023-02-01 01:59,2023-02-01 01:59
+D-Link,0,0,0,Website: https://www.dlink.com/,d-link,52,,,2023-02-01 01:50,2023-02-01 01:50
+Dell EMC,0,0,0,Website: https://www.dell.com/en-us/blog/tags/dell-emc/,dell-emc,49,,,2023-02-01 01:46,2023-02-01 01:46
+Dell Technologies,0,0,0,Website: https://dell.com/ | Support: https://www.dell.com/support/home/en-us,dell-technologies,18,,,2023-01-31 19:53,2023-02-01 01:45
+DrayTek,0,0,0,Website: https://www.draytek.com/,draytek,59,,,2023-02-01 01:58,2023-02-01 01:58
+F5 Networks,0,0,0,Website: https://www.f5.com/,f5-networks,51,,,2023-02-01 01:49,2023-02-01 01:49
+FS,0,0,0,Website: https://fs.com | Support: https://www.fs.com/contact_us.html,fs,17,,,2023-01-31 19:52,2023-01-31 19:52
+Fortinet,0,0,0,Website: https://www.fortinet.com/,fortinet,50,,,2023-02-01 01:48,2023-02-01 01:48
+Gigabyte,0,0,0,Website: https://www.gigabyte.com/ | Support: https://www.gigabyte.com/us/Support,gigabyte,40,,,2023-02-01 01:31,2023-02-01 01:31
+HP (Hewitt Packard),0,0,0,Website: https://hp.com/ | Support: https://support.hp.com/us-en/,hp,20,,,2023-01-31 19:55,2023-01-31 19:55
+Hewlett Packard Enterprise (HPE),0,0,0,Website: https://www.hpe.com/,hewlett-packard-enterprise-hpe,48,,,2023-02-01 01:45,2023-02-01 01:45
+IBM,0,0,0,Website: https://www.ibm.com/us-en,ibm,44,,,2023-02-01 01:39,2023-02-01 01:39
+Intel,0,0,0,Website: https://www.intel.com/ | Support: https://www.intel.com/content/www/us/en/support.html  | Product Specs: https://ark.intel.com/content/www/us/en/ark.html,intel,23,,,2023-01-31 19:59,2023-01-31 19:59
+Juniper Networks,0,0,0,Website: https://www.juniper.net/,juniper-networks,46,,,2023-02-01 01:42,2023-02-01 01:42
+Kingston,0,0,0,Website: https://www.kingston.com/en,kingston,54,,,2023-02-01 01:53,2023-02-01 01:53
+LG,0,0,0,Website: https://lg.com,lg,45,,,2023-02-01 01:39,2023-02-01 01:39
+Lenovo,0,0,0,Website: https://www.lenovo.com/us/en/ | Support: https://support.lenovo.com/,lenovo,41,,,2023-02-01 01:32,2023-02-01 01:32
+Linksys,0,0,0,Website: https://www.linksys.com/,linksys,53,,,2023-02-01 01:50,2023-02-01 01:50
+Logitech,0,0,0,Website: https://www.logitech.com/en-us,logitech,42,,,2023-02-01 01:36,2023-02-01 01:36
+Microsoft,0,0,0,Website: https://microsoft.com,microsoft,43,,,2023-02-01 01:38,2023-02-01 01:38
+MikroTik,14,0,0,Website: https://mikrotik.com/ Contact: support@mikrotik.com Documentation: https://help.mikrotik.com/docs,mikrotik,13,,,2023-01-31 19:19,2023-01-31 19:19
+NavePoint,0,0,0,Website: https://navepoint.com/,navepoint,34,,,2023-02-01 01:27,2023-02-01 01:27
+Netgear,0,0,0,Website: https://www.netgear.com/ | Support: https://www.netgear.com/support/ | Contact Us: https://www.netgear.com/about/contact-us/,netgear,32,,,2023-02-01 01:25,2023-02-01 01:25
+Nvidia,0,0,0,Website; https://www.nvidia.com/,nvidia,30,,,2023-01-31 20:06,2023-01-31 20:06
+PNY,0,0,0,Website: https://www.pny.com/,pny,55,,,2023-02-01 01:54,2023-02-01 01:54
+Palo Alto Networks,0,0,0,Palo Alto Networks | Website: https://www.paloaltonetworks.com/ | Support: https://www.paloaltonetworks.com/company/contact-sales | Docs: https://docs.paloaltonetworks.com/ |,palo-alto-networks,14,,,2023-01-31 19:21,2023-01-31 19:21
+SMC,0,0,0,,smc,57,,,2023-02-01 01:57,2023-02-01 01:57
+Samsung,0,0,0,Website: https://www.samsung.com/us/,samsung,58,,,2023-02-01 01:57,2023-02-01 01:57
+Seagate Technologies,0,0,0,Website: https://www.seagate.com/ | https://www.seagate.com/support/,seagate-technologies,36,,,2023-02-01 01:27,2023-02-01 01:47
+Sk Hynix,0,0,0,Website: https://www.skhynix.com/,sk-hynix,38,,,2023-02-01 01:30,2023-02-01 01:30
+Sonicwall,0,0,0,Website: https://www.sonicwall.com/,sonicwall,56,,,2023-02-01 01:56,2023-02-01 01:56
+SuperMicro,0,0,0,Website: https://www.supermicro.com/ | Support: https://www.supermicro.com/en/about/contact | Docs: https://www.supermicro.com/support/manuals,supermicro,19,,,2023-01-31 19:54,2023-01-31 19:54
+TP-Link,0,0,0,Website: https://www.tp-link.com/ | Support: https://www.tp-link.com/us/support/,tp-link,33,,,2023-02-01 01:26,2023-02-01 01:26
+Toshiba,0,0,0,Website: https://www.toshiba.com/tic/,toshiba,35,,,2023-02-01 01:27,2023-02-01 01:27
+Tripplite,0,0,0,Website: https://tripplite.eaton.com/ | Support: https://tripplite.eaton.com/support/help,tripplite,29,,,2023-01-31 20:05,2023-01-31 20:05
+Ubiquiti / Unifi,0,0,0,Website: https://ui.com/ | Portal: https://unifi.ui.com/ | Support: https://help.ui.com/ | Docs: https://help.ui.com/hc/en-us/categories/200320654-UniFi-Network-Archived-Documentation,ubiquiti-unifi,16,,,2023-01-31 19:52,2023-01-31 19:52
+"Western Digital Technologies, Inc",0,0,0,Website: https://www.westerndigital.com/ | Support: https://www.westerndigital.com/support,western-digital,37,,,2023-02-01 01:29,2023-02-01 01:29
